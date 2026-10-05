@@ -42,10 +42,10 @@ Twenty-Five participants with normal or corrected-to-normal vision will complete
 
 ### Materials
 
-- **Tachistoscope**: A smart unicorn
+- **Computer 
 - **Stimuli**: Black squares on a white background
   - Reference square: 9.00 sq.mm (constant)
-  - Comparison squares: We randomly generated the size of the comparison squares from a uniform distribution
+  - Comparison squares: randomly generated the size of the comparison squares from a uniform distribution
   - This range includes squares both smaller and larger than the reference
 
 ### Procedure
